@@ -36,6 +36,7 @@ void setup() {
     pixels.show();
   }
   inputString.reserve(200);
+  
 }
 
 void loop() {
